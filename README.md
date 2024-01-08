@@ -1,6 +1,6 @@
-# Mi tramite
+# My tramite
 ## About
-**"Mi tramite"** is an application designed to help you stay informed about the status of your requests in RENAPER. Whether you need to manually check the status or prefer an automatic update, "Mi tramite" has you covered. With additional features such as user management, notifications, and customization options, managing your tramites has never been easier.
+**"My tramite"** is an application designed to help you stay informed about the status of your requests in RENAPER. Whether you need to manually check the status or prefer an automatic update, "My tramite" has you covered. With additional features such as user management, notifications, and customization options, managing your tramites has never been easier.
 
 <img src="https://github.com/udsey/Mi_tramite/assets/33177996/2b881390-528c-41d1-9fbf-aa7f87337ba5"/>
 
