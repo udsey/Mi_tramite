@@ -27,7 +27,6 @@ from scr.Edit import EditTable
 import argparse
 
 
-
 class MyApp(QMainWindow):
     
     def __init__(self, test):
